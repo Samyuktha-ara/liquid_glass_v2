@@ -6,7 +6,7 @@ import App from './App.jsx';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/liquid_glass_v2">
       <App />
     </BrowserRouter>
   </StrictMode>
