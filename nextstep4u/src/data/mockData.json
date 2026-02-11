@@ -1,0 +1,365 @@
+{
+  "hero": {
+    "badge": "AI-Powered Learning Platform",
+    "heading": {
+      "line1": "Your Next Step",
+      "line2": "Toward",
+      "highlight": "Success",
+      "line3": "Starts Here"
+    },
+    "subtext": "Experience a new era of learning with AI-assisted courses, structured paths, and certifications that elevate your career to the next level.",
+    "stats": [
+      { "value": "10K+", "label": "Active Learners" },
+      { "value": "200+", "label": "Expert Courses" },
+      { "value": "98%", "label": "Success Rate" }
+    ]
+  },
+  "navLinks": [
+    { "label": "Features", "to": "/features" },
+    { "label": "Courses", "to": "/courses" },
+    { "label": "Why Us", "to": "/why-us" },
+    { "label": "Testimonials", "to": "/testimonials" }
+  ],
+  "features": [
+    {
+      "icon": "Brain",
+      "title": "AI-Assisted Learning",
+      "description": "Personalized learning paths powered by advanced AI that adapts to your pace, style, and goals in real-time.",
+      "gradient": "from-brand-400/20 to-brand-200/10"
+    },
+    {
+      "icon": "BookOpen",
+      "title": "Structured Courses",
+      "description": "Expert-crafted curriculum designed with clear milestones, hands-on projects, and progressive skill building.",
+      "gradient": "from-brand-300/20 to-brand-100/10"
+    },
+    {
+      "icon": "BarChart3",
+      "title": "Progress Tracking",
+      "description": "Visual dashboards and analytics to monitor your growth, identify strengths, and optimize your learning journey.",
+      "gradient": "from-brand-500/20 to-brand-300/10"
+    },
+    {
+      "icon": "Award",
+      "title": "Certification",
+      "description": "Industry-recognized certificates upon completion, validating your expertise and boosting career prospects.",
+      "gradient": "from-brand-600/20 to-brand-400/10"
+    }
+  ],
+  "featuresDetailed": [
+    {
+      "icon": "Cpu",
+      "title": "Adaptive Engine",
+      "description": "Our proprietary AI analyzes thousands of data points from your learning behavior to dynamically adjust content difficulty, pacing, and presentation style.",
+      "details": ["Real-time difficulty scaling", "Learning style detection", "Spaced repetition scheduling", "Weakness identification"],
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop"
+    },
+    {
+      "icon": "Route",
+      "title": "Smart Pathways",
+      "description": "Every learner gets a unique curriculum. The AI maps out the most efficient route from your current skill level to your target career, skipping what you already know.",
+      "details": ["Skill gap analysis", "Prerequisite auto-detection", "Career goal alignment", "Dynamic path updates"],
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop"
+    },
+    {
+      "icon": "MessageSquare",
+      "title": "AI Tutor",
+      "description": "Get instant, context-aware answers to your questions. Our AI tutor understands the course material and provides explanations tailored to your comprehension level.",
+      "details": ["24/7 availability", "Context-aware responses", "Code review assistance", "Concept visualization"],
+      "image": "https://images.unsplash.com/photo-1531746790095-e5a41943e0e8?w=800&h=600&fit=crop"
+    },
+    {
+      "icon": "Shield",
+      "title": "Verified Credentials",
+      "description": "Earn blockchain-verified certificates that employers can instantly authenticate. Your credentials are tamper-proof and permanently accessible.",
+      "details": ["Blockchain verification", "LinkedIn integration", "Employer portal access", "Digital portfolio builder"],
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=600&fit=crop"
+    }
+  ],
+  "featuresBenefits": [
+    { "icon": "Zap", "title": "10x Faster Learning", "description": "AI optimization cuts learning time by up to 60% compared to traditional methods." },
+    { "icon": "Target", "title": "Goal-Oriented", "description": "Every lesson is mapped to concrete career outcomes, not abstract theory." },
+    { "icon": "RefreshCw", "title": "Always Current", "description": "Course content is updated continuously to reflect the latest industry practices." },
+    { "icon": "Globe", "title": "Global Community", "description": "Connect with 10,000+ learners across 120 countries in our active forums." },
+    { "icon": "Laptop", "title": "Learn Anywhere", "description": "Fully responsive platform works seamlessly on desktop, tablet, and mobile." },
+    { "icon": "Lock", "title": "Enterprise Security", "description": "SOC 2 compliant infrastructure with end-to-end encryption of all data." }
+  ],
+  "courses": [
+    {
+      "title": "Advanced Machine Learning",
+      "instructor": "Dr. Sarah Chen",
+      "category": "AI & Data Science",
+      "duration": "12 weeks",
+      "students": "2,340",
+      "rating": "4.9",
+      "progress": 75,
+      "gradient": "from-brand-500/30 via-brand-400/20 to-brand-200/10",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop"
+    },
+    {
+      "title": "Full-Stack Web Development",
+      "instructor": "Marcus Johnson",
+      "category": "Software Engineering",
+      "duration": "16 weeks",
+      "students": "3,120",
+      "rating": "4.8",
+      "progress": 45,
+      "gradient": "from-brand-600/25 via-brand-500/15 to-brand-300/10",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop"
+    },
+    {
+      "title": "Product Design Mastery",
+      "instructor": "Emily Rivera",
+      "category": "Design & UX",
+      "duration": "10 weeks",
+      "students": "1,890",
+      "rating": "4.9",
+      "progress": 90,
+      "gradient": "from-brand-400/30 via-brand-300/20 to-brand-100/10",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&h=400&fit=crop"
+    },
+    {
+      "title": "Cloud Architecture & DevOps",
+      "instructor": "Alex Petrov",
+      "category": "Cloud Computing",
+      "duration": "14 weeks",
+      "students": "1,560",
+      "rating": "4.7",
+      "progress": 30,
+      "gradient": "from-brand-500/25 via-brand-400/15 to-brand-200/10",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop"
+    },
+    {
+      "title": "Data Engineering Pipeline",
+      "instructor": "Priya Sharma",
+      "category": "AI & Data Science",
+      "duration": "11 weeks",
+      "students": "980",
+      "rating": "4.8",
+      "progress": 60,
+      "gradient": "from-brand-300/30 via-brand-200/20 to-brand-100/10",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop"
+    },
+    {
+      "title": "Mobile App Development",
+      "instructor": "Jason Lee",
+      "category": "Software Engineering",
+      "duration": "13 weeks",
+      "students": "2,210",
+      "rating": "4.9",
+      "progress": 15,
+      "gradient": "from-brand-600/30 via-brand-500/20 to-brand-300/10",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop"
+    }
+  ],
+  "courseCategories": [
+    { "label": "All", "value": "all" },
+    { "label": "AI & Data Science", "value": "AI & Data Science" },
+    { "label": "Software Engineering", "value": "Software Engineering" },
+    { "label": "Design & UX", "value": "Design & UX" },
+    { "label": "Cloud Computing", "value": "Cloud Computing" }
+  ],
+  "learningPaths": [
+    {
+      "icon": "Code",
+      "title": "Full-Stack Developer",
+      "duration": "6 months",
+      "courses": 8,
+      "description": "Master both frontend and backend development, from React to Node.js, databases to deployment."
+    },
+    {
+      "icon": "BrainCircuit",
+      "title": "AI / ML Engineer",
+      "duration": "8 months",
+      "courses": 10,
+      "description": "Build expertise in machine learning, deep learning, and deploying AI models at production scale."
+    },
+    {
+      "icon": "Palette",
+      "title": "Product Designer",
+      "duration": "5 months",
+      "courses": 6,
+      "description": "Learn user research, interaction design, prototyping, and design systems used at top companies."
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "title": "Personalized Learning Paths",
+      "description": "AI adapts course content, pacing, and difficulty based on your unique learning style and progress."
+    },
+    {
+      "title": "Industry-Expert Instructors",
+      "description": "Learn from professionals with real-world experience at top companies and institutions."
+    },
+    {
+      "title": "Hands-On Projects",
+      "description": "Apply what you learn through real-world projects, building a portfolio as you progress."
+    },
+    {
+      "title": "Flexible Scheduling",
+      "description": "Study at your own pace with on-demand access to all materials, anytime, anywhere."
+    },
+    {
+      "title": "Career Support",
+      "description": "Get resume reviews, interview prep, and direct connections to hiring partners in your field."
+    },
+    {
+      "title": "Community Driven",
+      "description": "Join a thriving community of learners, mentors, and professionals for collaboration and growth."
+    }
+  ],
+  "platformStats": [
+    { "value": "10,000+", "label": "Active Learners", "icon": "Users" },
+    { "value": "200+", "label": "Expert-Led Courses", "icon": "BookOpen" },
+    { "value": "50+", "label": "Industry Partners", "icon": "Building" },
+    { "value": "95%", "label": "Job Placement Rate", "icon": "TrendingUp" }
+  ],
+  "partners": [
+    "Google", "Microsoft", "Amazon", "Meta", "Stripe", "Figma", "Netflix", "Spotify"
+  ],
+  "testimonials": [
+    {
+      "name": "Alexandra Moore",
+      "role": "Product Manager at Stripe",
+      "content": "NextStep4U completely transformed my career trajectory. The AI-driven learning path identified exactly what I needed and helped me transition into product management in just 4 months.",
+      "initials": "AM",
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "name": "David Park",
+      "role": "Senior Engineer at Google",
+      "content": "The structured curriculum and hands-on projects gave me the practical skills that interviews actually test for. I went from junior developer to senior engineer in under a year.",
+      "initials": "DP",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "name": "Rachel Thompson",
+      "role": "UX Lead at Figma",
+      "content": "What sets NextStep4U apart is the community and mentorship. Having direct access to industry professionals while learning made all the difference in my design career.",
+      "initials": "RT",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "name": "James Wilson",
+      "role": "Data Scientist at Netflix",
+      "content": "The machine learning track was incredibly comprehensive. Real datasets, real problems, and feedback from instructors who actually work in the field. Worth every minute invested.",
+      "initials": "JW",
+      "avatar": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "name": "Sofia Martinez",
+      "role": "Frontend Engineer at Shopify",
+      "content": "I tried three other platforms before finding NextStep4U. The difference is night and day. The AI tutor alone saved me hundreds of hours of searching for explanations.",
+      "initials": "SM",
+      "avatar": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "name": "Michael Chen",
+      "role": "CTO at a Y Combinator Startup",
+      "content": "We put our entire engineering team through NextStep4U courses. The structured curriculum and progress tracking made it easy to manage upskilling across the organization.",
+      "initials": "MC",
+      "avatar": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "name": "Aisha Patel",
+      "role": "Cloud Architect at AWS",
+      "content": "The cloud architecture track was perfectly structured. I earned my AWS certification on the first attempt, and the hands-on labs made the concepts stick.",
+      "initials": "AP",
+      "avatar": "https://i.pravatar.cc/150?img=16"
+    },
+    {
+      "name": "Tom Andersen",
+      "role": "Design Director at Airbnb",
+      "content": "The design curriculum blends theory with practical application better than any bootcamp I have seen. My team now recommends NextStep4U to every junior designer we hire.",
+      "initials": "TA",
+      "avatar": "https://i.pravatar.cc/150?img=13"
+    }
+  ],
+  "pricing": [
+    {
+      "name": "Free",
+      "price": "$0",
+      "period": "forever",
+      "description": "Get started with the basics and explore the platform.",
+      "features": [
+        "Access to 10 introductory courses",
+        "Community forum access",
+        "Basic progress tracking",
+        "Email support"
+      ],
+      "cta": "Start Free",
+      "highlighted": false
+    },
+    {
+      "name": "Pro",
+      "price": "$29",
+      "period": "per month",
+      "description": "Everything you need for serious career growth.",
+      "features": [
+        "Unlimited course access",
+        "AI-powered learning paths",
+        "Unlimited AI tutor sessions",
+        "Industry certifications",
+        "Career coaching sessions",
+        "Priority support"
+      ],
+      "cta": "Start Pro Trial",
+      "highlighted": true
+    },
+    {
+      "name": "Teams",
+      "price": "$49",
+      "period": "per user / month",
+      "description": "Upskill your entire team with centralized management.",
+      "features": [
+        "Everything in Pro",
+        "Admin dashboard & analytics",
+        "Custom learning paths",
+        "Team progress reports",
+        "SSO integration",
+        "Dedicated account manager"
+      ],
+      "cta": "Contact Sales",
+      "highlighted": false
+    }
+  ],
+  "faq": [
+    {
+      "question": "How does the AI-powered learning work?",
+      "answer": "Our adaptive AI engine analyzes your learning patterns, quiz results, and engagement data to dynamically adjust content difficulty, recommend resources, and optimize your study schedule. It gets smarter the more you learn."
+    },
+    {
+      "question": "Are the certifications recognized by employers?",
+      "answer": "Yes. Our certificates are blockchain-verified and recognized by our 50+ industry partners including Google, Microsoft, and Amazon. They can be shared directly on LinkedIn and verified by any employer through our portal."
+    },
+    {
+      "question": "Can I switch plans or cancel anytime?",
+      "answer": "Absolutely. You can upgrade, downgrade, or cancel your subscription at any time. No long-term contracts or hidden fees. If you cancel, you retain access until the end of your billing period."
+    },
+    {
+      "question": "What makes NextStep4U different from other platforms?",
+      "answer": "Three things: our AI personalization engine that adapts to each learner individually, our focus on career outcomes over course completion metrics, and our community of industry professionals who actively mentor students."
+    },
+    {
+      "question": "Is there a free trial for the Pro plan?",
+      "answer": "Yes. Every new user gets a 14-day free trial of the Pro plan with full access to all features, courses, and the AI tutor. No credit card required to start."
+    },
+    {
+      "question": "Do you offer team or enterprise discounts?",
+      "answer": "Yes. Teams of 10+ get volume discounts, and enterprise customers receive custom pricing with dedicated onboarding, SSO integration, and a dedicated account manager. Contact our sales team for details."
+    }
+  ],
+  "footer": {
+    "links": {
+      "Platform": ["Courses", "Features", "Pricing", "For Teams"],
+      "Company": ["About", "Blog", "Careers", "Press"],
+      "Support": ["Help Center", "Contact", "Privacy", "Terms"]
+    },
+    "socialLinks": [
+      { "icon": "Twitter", "label": "Twitter", "href": "#" },
+      { "icon": "Linkedin", "label": "LinkedIn", "href": "#" },
+      { "icon": "Github", "label": "GitHub", "href": "#" },
+      { "icon": "Instagram", "label": "Instagram", "href": "#" }
+    ]
+  }
+}
